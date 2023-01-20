@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.boxes{
+    position: relative;
+    /* left: 200px; */
+}
+
+.teal-box{
+    height: 100px;
+    width: 100%;
+    background-color: teal;
+    margin-top: 20px;
+}
+.pink-box{
+    height: 100px;
+    width: 100%;
+    background-color: hotpink;
+    margin-top: 20px;
+}
+.purple-box{
+    height: 100px;
+    width: 100%;
+    background-color: purple;
+    margin-top: 20px;
+}
